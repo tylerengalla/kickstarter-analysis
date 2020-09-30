@@ -4,7 +4,7 @@ Performing analysis on Kickstarter data to uncover trends for our 'customer,' Lo
 To help, I've done a deep analysis on Kickstarter Campaigns similar to Louise' to help her understand the realities of her goal. 
 
 We start by doing an analysis of all campaigns to get an idea of general success rates.
-![Parent_Category_Outcomes](path/to/Parent_Category_Outcomes.png)
+![Parent Category Outcomes](/Desktop/Parent Category Outcomes Bar Chart.png)
 
 What's important to Louise and what we found is that out of 912 theater campaigns in the US, 58% of those found success in reaching their funding goals. 
 
